@@ -1,0 +1,4 @@
+Bug in the code:
+ 
+Go language doesnot accept any double quotations while marshalling an object using the JSON. Also go lang won't allow to save those objects in a cookie with the double quotes.
+   
