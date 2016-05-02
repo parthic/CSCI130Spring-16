@@ -1,6 +1,6 @@
 var backgrounds = new Array();
 function loadArray(){
-	for(var i=0; i<5; i++){
+	for(var i=0; i<=5; i++){
 		backgrounds.push('images/' + i + '.jpg');
 	}
 	function preload(){
