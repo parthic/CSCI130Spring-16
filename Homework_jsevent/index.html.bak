@@ -1,0 +1,11 @@
+<html>
+	<head>
+
+	</head>
+
+	<body>
+		<p>JavaScript Example</p>
+		<div id="mod"></div>
+		<script src="javas.js"></script>
+	</body>
+</html>
