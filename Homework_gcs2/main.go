@@ -21,16 +21,15 @@ func init() {
 	http.HandleFunc("/", handler)
 }
 
-// demo struct holds information needed to run the various demo functions.
 type demo struct {
 	bucket *storage.BucketHandle
 	client *storage.Client
 
 	w   http.ResponseWriter
 	ctx context.Context
-	// cleanUp is a list of filenames that need cleaning up at the end of the demo.
+	
 	cleanUp []string
-	// failed indicates that one or more of the demo steps failed.
+	
 	failed bool
 }
 

@@ -15,23 +15,24 @@
 	<div id="atf">
 
 		<header>
-        <a href="#" id="logo">CSCI 130</a>
-        <!-- nav desktop (nd) -->
-        <ul class="nd">
-            <li><a href="#">Images</a></li>
-            <li><a href="#">Music</a></li>
-            <li><a href="#">Videos</a></li>
-            <li><a href="#">Map</a></li>
-            <li><a href="#">Blog</a></li>
-        </ul>
-    </header>
+			<a href="#" id="logo">The Endless Journey</a>
+			<!-- nav desktop (nd) -->
+			<ul class="nd">
+				<li><a href="#">Sponsors</a></li>
+				<li><a href="#">Music</a></li>
+				<li><a href="#">Pictures</a></li>
+				<li><a href="#">Map</a></li>
+				<li><a href="#">Blog</a></li>
+			</ul>
+		</header>
+
 		<div id="hero-img"></div>
 
 		<main> <!-- call to action (cta) -->
 		<section id="cta">
 			<h1 id="cta-txt">Live Your Greatest Adventure</h1>
 			<h2 id="cta-btn">
-				<a href="#">Welcome !!!</a>
+				<a href="#">Start Now</a>
 			</h2>
 		</section>
 		</main>
